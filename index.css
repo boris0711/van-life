@@ -60,7 +60,7 @@ header a:hover {
 
 .link-button:hover {
     transform: translate(1px, 1px);
-    background-color: red;
+  color: red;
 }
 
 /*** HOME PAGE ***/
