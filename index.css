@@ -5,7 +5,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #dee4d4;
+    background-color: #FFF7ED;
     font-family: "Inter", sans-serif;
 }
 
@@ -51,7 +51,7 @@ header a:hover {
     text-decoration: none;
     border: none;
     padding: .75rem 1.375rem;
-    color:aqua;
+    color: initial;
     font-weight: 700;
     border-radius: 5px;
     cursor: pointer;
@@ -60,7 +60,6 @@ header a:hover {
 
 .link-button:hover {
     transform: translate(1px, 1px);
-  color: rgb(28, 25, 25);
 }
 
 /*** HOME PAGE ***/
