@@ -5,7 +5,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #edfff2;
+    background-color: #161817;
     font-family: "Inter", sans-serif;
 }
 
@@ -51,7 +51,7 @@ header a:hover {
     text-decoration: none;
     border: none;
     padding: .75rem 1.375rem;
-    color: initial;
+    color:aqua;
     font-weight: 700;
     border-radius: 5px;
     cursor: pointer;
